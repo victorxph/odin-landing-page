@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+html{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+}
+
+header{
+    background-color: #1F2937;
+    color: white;
+    display: flex;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+}
+
+ul a{
+    color: white;
+    text-decoration: none;
+}
+
+
